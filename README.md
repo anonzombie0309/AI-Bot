@@ -44,7 +44,7 @@ We have achieved the follwing metrics on the overall randomly stratified sliced 
 Clone the project
 
 ```bash
-  git clone "https://github.com/vibhanshushrm2025/AI-Thos.git"
+  git clone https://github.com/anonzombie0309/AI-Bot
 ```
 
 Go to the project directory
